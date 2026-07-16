@@ -1,3 +1,5 @@
 File 2 added in the folder.
 
 add another marketing message section.
+
+add footer note.
